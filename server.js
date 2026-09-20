@@ -32,7 +32,7 @@ const page = `<!DOCTYPE html>
 <body>
   <main>
     <span class="badge">YOUR WEB SERVER IS RUNNING</span>
-    <h1>Hello from Dockers.</h1>
+    <h1>Hello from Dockers101.</h1>
     <p>Your containerized application is ready to use.
        Edit this page to make it your own, then rebuild with Docker Compose.</p>
     <a href="/health">Check server health</a>
